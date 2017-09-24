@@ -20,7 +20,7 @@
      <link href="<%=basePath%>assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="<%=basePath%>assets/css/style.css" rel="stylesheet" type="text/css">
 
-    <script src="<%=basePath%>ckeditr/ckeditor.js"></script>
+    <script src="<%=basePath%>ckeditor/ckeditor.js"></script>
 	<script src="<%=basePath%>assets/js/sample.js"></script>
 
 	<link href="<%=basePath%>assets/css/samples.css" rel="stylesheet" >
